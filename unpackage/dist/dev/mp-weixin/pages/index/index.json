@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "m-down",
+  "usingComponents": {
+    "msj-down": "/uni_modules/msj-down/components/msj-down/msj-down",
+    "cascade": "/pages/index/cascade"
+  }
+}

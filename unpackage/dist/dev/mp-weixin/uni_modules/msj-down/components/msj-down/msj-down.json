@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "down": "/uni_modules/msj-down/components/msj-down/components/down",
+    "msj-filter": "/uni_modules/msj-down/components/msj-down/components/filter"
+  }
+}
